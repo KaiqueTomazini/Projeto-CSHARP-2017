@@ -1,0 +1,70 @@
+C:\Users\Kaique\Desktop\dasfdf\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+C:\Users\Kaique\Desktop\dasfdf\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe
+C:\Users\Kaique\Desktop\dasfdf\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+C:\Users\Kaique\Desktop\dasfdf\AutoUpdate\AutoUpdate\bin\Debug\Ionic.Zip.dll
+C:\Users\Kaique\Desktop\dasfdf\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+C:\Users\Kaique\Desktop\dasfdf\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+C:\Users\Kaique\Desktop\dasfdf\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\Users\Kaique\Desktop\dasfdf\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe
+C:\Users\Kaique\Desktop\dasfdf\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
+C:\FON\shh\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+C:\FON\shh\AutoUpdate\obj\Debug\AutoUpdate.exe
+C:\FON\shh\AutoUpdate\obj\Debug\AutoUpdate.pdb
+C:\FON\shh\AutoUpdate\bin\Debug\AutoUpdate.exe
+C:\FON\shh\AutoUpdate\bin\Debug\AutoUpdate.pdb
+C:\FON\shh\AutoUpdate\bin\Debug\Ionic.Zip.dll
+C:\FON\shh\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+C:\FON\shh\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+C:\FON\shh\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+C:\FON\shh\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\FON\shh\AutoUpdate\bin\Debug\AtualizarDiario.exe.config
+C:\FON\AutoUpdate\bin\Debug\AtualizarDiario.exe.config
+C:\FON\AutoUpdate\bin\Debug\AtualizarDiario.exe
+C:\FON\AutoUpdate\bin\Debug\AtualizarDiario.pdb
+C:\FON\AutoUpdate\bin\Debug\Ionic.Zip.dll
+C:\FON\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+C:\FON\AutoUpdate\obj\Debug\AtualizarDiario.Properties.Resources.resources
+C:\FON\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\FON\AutoUpdate\obj\Debug\AtualizarDiario.exe
+C:\FON\AutoUpdate\obj\Debug\AtualizarDiario.pdb
+C:\FON\linksql\bin\Debug\AtualizarDiario.exe.config
+C:\FON\linksql\bin\Debug\AtualizarDiario.exe
+C:\FON\linksql\bin\Debug\AtualizarDiario.pdb
+C:\FON\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.pdb
+C:\Users\Administrador\Documents\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.exe.config
+C:\Users\Administrador\Documents\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.exe
+C:\Users\Administrador\Documents\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.pdb
+C:\Users\Administrador\Documents\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+C:\Users\Administrador\Documents\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.Properties.Resources.resources
+C:\Users\Administrador\Documents\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.exe
+C:\Users\Administrador\Documents\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.pdb
+C:\Users\maria\Desktop\MACCA\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.exe.config
+C:\Users\maria\Desktop\MACCA\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.exe
+C:\Users\maria\Desktop\MACCA\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.pdb
+C:\Users\maria\Desktop\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\maria\Desktop\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+C:\Users\maria\Desktop\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.Properties.Resources.resources
+C:\Users\maria\Desktop\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\Users\maria\Desktop\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.exe
+C:\Users\maria\Desktop\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.pdb
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.exe.config
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.exe
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\DiarioDeClasse\bin\Debug\AtualizarDiario.pdb
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.Properties.Resources.resources
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AutoUpdate.csproj.CopyComplete
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.exe
+C:\Users\Connor\Desktop\PASTAS\Programação Ensino Medio\DiarioDeClasseProjeto-VisualStudio\MACCA\DiarioDeClasse\AutoUpdate\obj\Debug\AtualizarDiario.pdb
