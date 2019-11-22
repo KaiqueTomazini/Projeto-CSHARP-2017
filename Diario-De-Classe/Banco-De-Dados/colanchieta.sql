@@ -1040,11 +1040,6 @@ ALTER TABLE `horariosnovo`
   ADD KEY `quinta_horario` (`quinta_horario`),
   ADD KEY `sexta_horario` (`sexta_horario`);
 
---
--- Indexes for table `host`
---
-ALTER TABLE `host`
-  ADD PRIMARY KEY (`cod_host`);
 
 --
 -- Indexes for table `info_diario`
@@ -1117,11 +1112,6 @@ ALTER TABLE `horarios`
 --
 ALTER TABLE `horariosnovo`
   MODIFY `cod_horarios` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=307;
---
--- AUTO_INCREMENT for table `host`
---
-ALTER TABLE `host`
-  MODIFY `cod_host` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
 --
 -- AUTO_INCREMENT for table `info_diario`
 --
