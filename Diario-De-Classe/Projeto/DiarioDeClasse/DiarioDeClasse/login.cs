@@ -23,7 +23,7 @@ namespace DiarioDeClasse
 
         public void conectar()
         {
-            Vars.ip = "172.20.10.11";
+            Vars.ip = "192.168.0.1"; //Este valor foi alterado, ou seja ele é invalido para acessar o servidor
 
             if (cbHost.Text == "Localhost")
                 Vars.Cfg = "Server=localhost; Database=colanchieta; Userid=root; Pwd=vertrigo";
